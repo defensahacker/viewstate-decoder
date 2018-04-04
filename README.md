@@ -3,8 +3,8 @@
 
 VIEWSTATE module and decoder was copied from https://github.com/yuvadm/viewstate.git and all kudos go to yuvadm.
 
-I just wrote a wrapper to easily decode ASP.NET ```__VIEWSTATE``` variables without having
-to install the viewstate module into the system with administrative privileges and be able to decode the variables with a small script.
+I just wrote a small tool to easily decode ASP.NET ```__VIEWSTATE``` variables without having
+to install the viewstate module into the system with administrative privileges and be able to decode the variables with a small script using a terminal, without writting python code.
 
 Sometimes when doing webpentesting against a ASP web application is useful a tool like this.
 
