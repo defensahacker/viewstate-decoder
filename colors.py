@@ -1,3 +1,6 @@
+# 
+# Small script to print out colors easily
+# spinfoo
 
 def print_red(s):
     print("\033[0;31m"+s+"\033[0m")
