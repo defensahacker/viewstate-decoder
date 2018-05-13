@@ -19,6 +19,11 @@ $ ./decoder.py "/wEPDwUKMTU5MTA2ODYwOWRkoCvvBWgUOH7PD446qvEOF6GTCq0="
 (('1591068609', None), None)
 ```
 
+## DEFENSE ##
+
+To protect against this attacks turn ```EnableViewStateMac``` property to ```True``` in the ```machine.config``` file.
+To encrypt turn property ```validation``` to ```3DES```.
+
 
 ## DISCLAIMER ##
 Use at your own risk in an environment that you are allowed to attack.
