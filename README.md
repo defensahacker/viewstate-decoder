@@ -30,5 +30,5 @@ Use at your own risk in an environment that you are allowed to attack.
 
 
 ~
-(c) spinfoo
+(c) defensahacker
 
